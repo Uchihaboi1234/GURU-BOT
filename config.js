@@ -50,10 +50,10 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = 'ᴛʜᴇ ɢᴜʀᴜ-ʙᴏᴛ'
+global.botname = '𝙺𝙰𝚁𝙰𝙼-𝙼𝙳'
 global.premium = 'true'
-global.packname = '𝙺𝙰𝚁𝙰𝙼🪽' 
-global.author = '₹_₹' 
+global.packname = '𝘾𝙀𝘼𝙏𝙀𝘿 𝘽𝙔' 
+global.author = '𝙺𝙰𝚁𝙰𝙼' 
 global.menuvid = 'https://i.imgur.com/AjDzGgG.mp4'
 global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/asli_guru69\n' 
 global.dygp = 'https://chat.whatsapp.com/BFfD1C0mTDDDfVdKPkxRAA'
